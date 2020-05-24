@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_oj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_oj_jar</output-path>
+    <root id="archive" name="java_oj.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="java_oj" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/M2Repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/M2Repository/mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

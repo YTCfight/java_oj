@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java_oj:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87c72d72-4483-4096-8e10-286debe9ff35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.95.197.189" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.95.197.189" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.95.197.189" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="java_oj: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@47.95.197.189" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="java_oj: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="oj_table: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Downloads/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1byPLMR7xZTrP7wP77s858owPKM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RegionConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProblemDAO">
+    <configuration name="CommandUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compile.CommandUtil" />
+      <module name="java_oj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.ProblemDAO" />
+      <module name="java_oj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compile.Task" />
+      <module name="java_oj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestGson" />
+      <module name="java_oj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deploy to Host" type="DEPLOY_HOST_RUN_CONFIGURATION" factoryName="Deploy to Host">
+      <option name="address" value="47.95.197.189" />
+      <option name="afterCommand" value="" />
+      <option name="alreadyReset" value="true" />
+      <option name="autoOpen" value="false" />
+      <option name="beforeCommand" value="" />
+      <option name="defaultTabIdx" value="0" />
+      <option name="ecsInstance">
+        <EcsInstance>
+          <option name="OSType" />
+          <option name="instanceId" />
+          <option name="instanceName" />
+          <option name="netType" />
+          <option name="privateIps" />
+          <option name="publicIps" />
+          <option name="regionId" />
+          <option name="tags" />
+        </EcsInstance>
+      </option>
+      <option name="hostTagId" value="0" />
+      <option name="location" value="/home/install/apache-tomcat-8.5.50/webapps" />
+      <option name="pathOrUrl" value="$PROJECT_DIR$/target/java_oj.war" />
+      <option name="tagId" value="0" />
+      <option name="terminalCommand" />
+      <option name="type" value="HOST" />
+      <option name="uploadType" value="MAVEN" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration name="java_oj" type="DEPLOY_HOST_RUN_CONFIGURATION" factoryName="Deploy to Host">
+      <option name="address" value="47.95.197.189" />
+      <option name="afterCommand" value="" />
+      <option name="alreadyReset" value="true" />
+      <option name="autoOpen" value="false" />
+      <option name="beforeCommand" value="" />
+      <option name="defaultTabIdx" value="0" />
+      <option name="ecsInstance">
+        <EcsInstance>
+          <option name="OSType" />
+          <option name="instanceId" />
+          <option name="instanceName" />
+          <option name="netType" />
+          <option name="privateIps" />
+          <option name="publicIps" />
+          <option name="regionId" />
+          <option name="tags" />
+        </EcsInstance>
+      </option>
+      <option name="hostTagId" value="0" />
+      <option name="location" value="/home/install/apache-tomcat-8.5.50/webapps" />
+      <option name="pathOrUrl" value="$PROJECT_DIR$/target/java_oj.war" />
+      <option name="tagId" value="0" />
+      <option name="terminalCommand" />
+      <option name="type" value="HOST" />
+      <option name="uploadType" value="MAVEN" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProblemDAO" />
+        <item itemvalue="Application.TestGson" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.CommandUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@47.95.197.189" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@47.95.197.189" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@37b41be" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@47.95.197.189" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@32d305df" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@47.95.197.189" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@76a60e88" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c72d72-4483-4096-8e10-286debe9ff35" name="Default Changelist" comment="" />
+      <created>1589601302250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589601302250</updated>
+      <workItem from="1589601305032" duration="84000" />
+      <workItem from="1589601450107" duration="649000" />
+      <workItem from="1589614329105" duration="2576000" />
+      <workItem from="1589616950862" duration="82000" />
+      <workItem from="1589617048871" duration="5092000" />
+      <workItem from="1589702085168" duration="3963000" />
+      <workItem from="1589706995041" duration="757000" />
+      <workItem from="1589708217545" duration="5600000" />
+      <workItem from="1589717907172" duration="1277000" />
+      <workItem from="1589765296622" duration="276000" />
+      <workItem from="1589777441731" duration="1000000" />
+      <workItem from="1589797622054" duration="795000" />
+      <workItem from="1590200078313" duration="12869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="76" key="#Deploy_to_Host" timestamp="1590202303600">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="402" y="76" key="#Deploy_to_Host/0.0.1440.900@0.0.1440.900" timestamp="1590202303600" />
+    <state x="220" y="34" key="#Project_Structure" timestamp="1589621096078">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1589621096078" />
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590206308159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1590206308159" />
+    <state x="489" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1590204451603">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="489" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590204451603" />
+    <state x="395" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589708643886">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="395" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1589708643886" />
+    <state x="395" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.803@0.23.1440.803" timestamp="1589707560371" />
+    <state x="503" y="349" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1589610943968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="349" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1440.900@0.0.1440.900" timestamp="1589610943968" />
+    <state x="502" y="349" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1589610887615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="502" y="349" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1440.900@0.0.1440.900" timestamp="1589610887615" />
+    <state width="1385" height="315" key="GridCell.Tab.0.bottom" timestamp="1590241257403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590241257403" />
+    <state width="1385" height="315" key="GridCell.Tab.0.center" timestamp="1590241257402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590241257402" />
+    <state width="1385" height="315" key="GridCell.Tab.0.left" timestamp="1590241257401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590241257401" />
+    <state width="1385" height="315" key="GridCell.Tab.0.right" timestamp="1590241257402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590241257402" />
+    <state width="254" height="548" key="HiddenNamespacesPopup" timestamp="1590206411630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="254" height="548" key="HiddenNamespacesPopup/0.0.1440.900@0.0.1440.900" timestamp="1590206411630" />
+    <state x="208" y="133" key="IDE.errors.dialog" timestamp="1590219393193">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="133" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1590219393193" />
+    <state x="80" y="3" width="1280" height="897" key="SettingsEditor" timestamp="1590201947218">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="80" y="3" width="1280" height="897" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590201947218" />
+    <state x="80" y="44" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1589707565324" />
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1589705088834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1589705088834" />
+  </component>
+</project>
